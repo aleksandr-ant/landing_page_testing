@@ -1,0 +1,14 @@
+# Запуск в виртуальном окружении
+cd F:\Jobs\programming\projects bots\landingpage_web\venv\Scripts
+activate
+deactivate
+
+
+# Запуск отладочного сервера
+cd F:\Jobs\programming\projects bots\landingpage_web
+python manage.py runserver
+
+
+# admin
+alex
+aavanv2899
